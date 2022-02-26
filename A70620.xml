@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More sad and lamentable news from Bristol in a sober letter from a gentleman of that city to his friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70620</idno>
+            <idno type="STC">Wing M2715</idno>
+            <idno type="STC">ESTC R221910</idno>
+            <idno type="EEBO-CITATION">99833155</idno>
+            <idno type="PROQUEST">99833155</idno>
+            <idno type="VID">37630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2191:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More sad and lamentable news from Bristol in a sober letter from a gentleman of that city to his friend in London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[printed for John Moderation,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII. [1682]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped at foot with loss of imprint and text.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37630:1" rendition="simple:additions"/>
+            <p>MORE <hi>Sad and Lamentable</hi> NEWS From BRISTOL, In a Sober
+LETTER FROM A <hi>GENTLEMAN</hi> of that <hi>CITY</hi> TO HIS FRIEND IN
+LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37630:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:37630:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37630:3"/>
+            <pb n="1" facs="tcp:37630:3"/>
+            <opener>
+               <dateline>
+                  <hi>Briſtoll</hi> 
+                  <date>the 19th of <hi>April,</hi> 1682.</date>
+               </dateline>            
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs of the 15th Inſtant I received, obſerving its Contents
+to adviſe that <hi>Briſtol</hi> is become the great Scene of News, many
+perſons being de<g ref="char:EOLunhyphen"/>ſirous to hear frequently from hence; I ſhall for your
+Satisfaction give an Impartial Account of the late Occurrences amongſt us. In
+the firſt place I have to acquaint you, that I formerly received a little
+Book you ſent me, called, <hi>The Sad and Lamentable Cry of Oppreſſion
+and Cruelty in</hi> Briſtol, which on its reading over, I find to be true in
+matter of Fact, and what I can from my own Obſervation and Credible
+Information ſtand to and confirm, ſince that Book came abroad. The Meetings
+of all the Diſſenters continue to be diſturbed with equal vigour as
+formerly: The <hi>Quakers</hi> forcibly kept out of their Meeting-houſe, hold
+their Meetings conſtantly in the Court before it, (a cuſtom (you know)
+proper to thoſe people, whom nothing but a Goal debars them of Meeting
+together. (At theſe Street-Meetings they are not very Numerous, and them for
+the moſt part Women, there being above Fourſcore of their men at this time
+<hi>actually</hi> in Priſon, and ſeveral others of that Party out on
+Security to appear at Seſſions. The other Diſſenters meet ſometimes
+privately in their ſeveral Houſes, and ſometimes publickly in the Fields,
+and out-parts of the City: But they are narrowly Watch'd in both, and Hunted
+after by the Informers and Spies employ'd on purpoſe, who are ſo Eager at
+their work, that they Diſturb and Rout both as ſoon as ever they have any
+notice of them.</p>
+            <p>For the diſcovery of the private Meetings in the City, theſe
+Church-Drivers are ſo Yeer, that if they hear a Prayer, Singing of Pſalms,
+have a Suſpition, or any ſham Information of a Meeting in a Diſſenters
+Houſe, away they Hurry, Break open his Door, or enter his Houſe through
+their Neighbours, run up and down all the Rooms, to the Affrightment of the
+Women and Children. And all this without producing a Warrant, or bringing any
+Badge of their Office. In theſe Boiſterous Practices (I aſſure you)
+they have been found, when no ſuch thing as a Coventicle was or could be
+found. By this judge the Diſtraction theſe poor people are in: What adds to
+it, is, that being diſturbed of their publick Meetings, they can<g ref="char:EOLhyphen"/>not have
+that ſmall favour the Conventicle Act allows them, that is, of Meet<g ref="char:EOLhyphen"/>ing in
+their private Families: For at Seſſions Hundreds are Proſecuted upon
+Statutes made againſt <hi>Papiſts,</hi> and at the
+<hi>Biſhops-Courts:</hi> The Lay Officers are buſie Tooth and Nail to load
+them with <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <pb n="2" facs="tcp:37630:4"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſo, having delivered them to the
+Devil, they might prepare them for the Goaler, which is the portion of
+ſeveral already. The Rigour and Se<g ref="char:EOLhyphen"/>verity of theſe Proceedings makes
+ſeveral Induſtrious and Wealthy-Diſſenters quit their Callings, and
+remove their Families to a more quiet Station, by which means many of the Poor
+are like to want Bread. The City gene<g ref="char:EOLhyphen"/>rally to decay in its Trade, and the
+Kings Intereſt conſiderably too leſſen'd in its Revenue; the Proof of
+which will be fully made out by caſting up the Cuſtom-houſe Books at the
+years end, to which I refer you.</p>
+            <p>The noiſe of Breaking open Houſes, and carrying away Goods, is
+at preſent abated, little Diſtreſſes having been made of late, which I
+Impute, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> To their being ſenſible of the Error, and Unlawfulneſs of
+moſt of their former. And next to their want of Subject to make a Conventicle
+of; for there being at this Inſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant no other publick Meeting but that of
+the <hi>Quakers.</hi> The Informers are ſo forward to break up that, that
+they generally diſperſe them at their firſt coming together, or before
+they come to that Exerciſe of Religion, as to know, whether it differs from
+the Liturgy of the Church. Their Preachers, whether of the City or Strangers,
+are preſently caught up and carried to Priſon; ſo they (which you know is
+Cuſtomary) ſit Silent, where<g ref="char:EOLhyphen"/>by the Informers loſe the opportunity of the
+Benefit of a Conventicle; how<g ref="char:EOLhyphen"/>ever, rather than want work, they ſtrive to
+make a Riot of this Silent Meeting. The manner of it is thus, When the
+Informers come to diſturb them, one of the Gang without produceing any
+Authority, makes Pro<g ref="char:EOLhyphen"/>clamation [peremptorily] in the Kings Name, for all
+perſons to depart; which if not preſently complyed with, then to their work
+they fall, that is, to Hale, Puſh, and drive away the Women and Children: For
+the men they take oſt times two or three of the chief, commit and lead them
+to Priſon, where commonly they are detained one Night, or ſo, on this
+Au<g ref="char:EOLhyphen"/>thority, and then the next day convened before a Magiſtrate, and ſent to
+<hi>Newgate</hi> with a <hi>Mittimus</hi> for breach of the Peace. Now, I
+mention <hi>New<g ref="char:EOLhyphen"/>gate,</hi> I cannot let it paſs without ſaying ſomewhat
+of the Doleful Condition of thoſe <hi>Quakers</hi> that are now Priſoners,
+whoſe Caſe indeed would force Commiſeration from any one, that's either
+Conſcientious or Chriſtian: For in the firſt place the Goal, is in its
+ſelf ſo Noiſome, that it hath been Preſented by ſeveral Grand-Juries,
+and next ſo ſtrait that theſe poor People have ſcarce Room to ſtand
+or lye one by another. In one Room there is Nine Beds; and in another ſmall
+Gallery under the Roof of the Houſe, Six Beds; and in another Room 14 Foot
+Square, Seven Beds. There are Beds alſo placed in ſeveral little obſcure
+Holes, not fit for any to Lodge in: But whats worſt of all, theſe places
+afford them not Lodging enough, but ſome are forc'd to Lye in Hammacks,
+ſome on the Floor, and ſome on the Table Board of the Hall, which is the
+common thorow Fair of the Goal. By this unreaſonable Crowding them in a
+Naſty Goal, ſeveral of the Priſoners are grown Sickly, and ſome put
+forth of the Priſon Sick; many are the Conſternations of the Sober and
+Judicious people of this City <pb n="3" facs="tcp:37630:4"/>to think what the Tendency of
+theſe things will be; for beſides the decay
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Trade aforementioned, and want
+of Imployment for the Poor, <hi>&amp;c.</hi> Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives and Health of theſe the Kings Proteſtant Subjects, and
+others of th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Populous City, are
+thereby greatly endangered.</p>
+            <p>You know, <hi>Sir,</hi> Application hath been made both Here and
+Above fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Redreſs; and what
+little ſucceſs it hath hitherto produced: For the <hi>Qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>kers</hi> had by their Friends no
+ſooner obtained an Order of Council for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Enlargement of the Goal; in which I muſt do our Magiſtrates
+that Right, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to confeſs they
+were ready to obey it, and had by their Report manifeſted no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only the Truth of the <hi>Quakers</hi>
+Complaint, but their own willingneſs to ea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them: But <hi>Mr. Knight</hi> one of the Sheriffs (the
+Diſſenters grand Proſecutor an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Informer) being then in <hi>London,</hi> wrote peremptorily to the
+Goaler not to obe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it: And alſo,
+as he intimated in that Letter, procured an Order to Rever<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that Order of Enlargement; on which Foot the
+Priſoners continue. Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral
+Prints at that time will tell you, that this Sheriff had alſo the Honou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Knighthood conferred upon him; ſo
+in my following Relation I ſhal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+obſerve him with that diſtinction.</p>
+            <p>Since the Return of this new Knighted Sheriff (the Pageantry of
+whoſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming in, you have
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully in <hi>Thompſon's</hi>
+Intelligence, ſet out to his way o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Advantage) the Proſecution of the Diſſenters have been with a
+Severity n<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> way ſhort of the
+former, towards the <hi>Quakers</hi> it exceeds, thus, that is, th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> New Sir <hi>John</hi> (for by the way
+we have an Old Sir <hi>John Knight</hi> in this City<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is a worthy Magiſtrate, and truely Loyal
+Church-man) is more Bluf<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than
+formerly, Cracks highly of his Power and his Orders, and not ſatisfied with
+barely Committing the <hi>Quakers</hi> to Priſon, and their Stowing them in
+Heaps, but he muſt break their Meeting in Priſon too, which I preſume is
+no more Warranted by Law, than many other of his Actions are.</p>
+            <p>Since the Priſon being thus made their Houſe, I cannot find
+any Clauſe in the Conventicle Act that prohibits their Meeting together, and
+fo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more with them. However our New
+Sir <hi>John</hi> is not willing it ſhall be ſo, but comes to the Priſon
+to diſturb them; with him, he brings, the laſt of <hi>March,</hi> his Elder
+Brother Informer <hi>Mr. Helliar,</hi> and another young Informer of the ſame
+Name: The ſecond of <hi>April</hi> he brings his Companion or Secre<g ref="char:EOLhyphen"/>tary
+<hi>Brand,</hi> who is one that triumphs loudly in his Maſters Honour, and
+Reports that he was called at <hi>Newmarket</hi> one of the Pillars of
+<hi>Briſtol:</hi> Theſe coming to Priſon Meeting the days aforeſaid,
+made there a grievous <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ggle. Our
+New Sir <hi>John</hi> and Old <hi>Helliar</hi> Menacing the Priſoners with
+Irons, Dungeon and the Gallows. Sir <hi>John</hi> tryed to ſcare them by
+Threatning to draw out his Doughty Sword, and Hales, Pulls, and Throws on the
+ground ſeveral of the Priſoners there met; Old <hi>Helliar</hi> thruſt
+his Cane at the Faces of ſeveral of the Priſoners; and the Sheriff took one
+man by the Shoulders, Haling him with all his ſtrength to the Stairs head,
+and then forcibly threw <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im down
+Stairs backwards, which fall had in all likelihood broke his Neck
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Limbs, had not ſome on
+the Stairs Providentially ſaved him: His <pb n="4" facs="tcp:37630:5"/>Cruelty ſtopt
+not here, but he commands the poor man into the Weſt<g ref="char:EOLhyphen"/>houſe, the common
+Receptacle for Fellons between Sentence and Execu<g ref="char:EOLhyphen"/>tion, and there continues him
+to this day: The Priſoners asking him why they were ſo Severely uſed, he
+Anſwers them with a Huff, and Talks Big of his Power and Orders. This
+Unnatural, and Unpreſidented Severity occaſions great Diſſatisfaction
+to all Worthy Perſons, who are concerned to ſee His Majeſties Goal made
+ſo near to reſemble an Inquiſiton, and the Sheriff to Act the place of a
+Lord Inquiſitor.</p>
+            <p>Laſt <hi>Sunday</hi> this Sheriff, that is, our New Sir
+<hi>John</hi> came to the <hi>Quakers</hi> Meeting, and with him his uſual
+Aſſociates and Fellow Informers, <hi>Mr. Helliar, Oliff, Lugg, Caſſe,
+Tilley</hi> and <hi>Patrick, Brand</hi> and <hi>Summers.</hi> The firſt ſix
+being a Sett of Conſtables pact together as the only perſons of the City
+for ſuch work: Theſe diſturbed the Meeting, Haling out, puſhing and
+dri<g ref="char:EOLhyphen"/>ving away the <hi>Quakers,</hi> many of whom, both men and women, they, as
+is uſual, took Authority to Commit to <hi>Bridwell,</hi> where Eleven of them
+were continued all Night, ſitting up by the Fire for want of Lodging.</p>
+            <p>Pleaſe to Note, That the taking upon them this Authority is ſo
+common with them, that in their Diſcourſes and Actions, they all alike Imp
+the place of Juſtices of the Peace; the meaneſt Tool among theſe
+Informers menaces with his power, Commits with more Imperiouſneſs, and
+Releaſes with more freedom, than is common for any of our Aldermen, who
+ſtill, to give them their due, ſent the Women home as ſoon as they were
+brought be<g ref="char:EOLhyphen"/>fore them. The Mayor calling to our New Sir <hi>John,</hi> and
+asking, <hi>What they did, and for what they were Committed?</hi> he
+Anſwered, <hi>That they were all at a Meeting, ſaid nothing;</hi> ſo he
+knew not what they were about, un<g ref="char:EOLhyphen"/>leſs they were plotting to break open the
+Priſon, and get away their Huſ<g ref="char:EOLhyphen"/>bands.</p>
+            <p>To ſatisfie you with my diſtinction, and calling ſome of
+theſe Informers mean, I aſſure you, it is their proper Title, they being
+here fully known ſo, and in all their other qualifications, that the naming
+them to an honeſt <hi>Bri<g ref="char:EOLhyphen"/>ſtoll</hi> Man, preſently furniſhes you with
+their right Character. Mr. <hi>Helliar</hi> hath precedency as a perſon of an
+Eſtate, one noted for — and famous for his experience and great cunning
+in theſe practices, but our New Sir <hi>John</hi> carrys the Bell, for he is
+certainly the Son of once a truly worthy and Loyal Magiſtrate, who bred him a
+Merchant, and placed him a Factor at <hi>Me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is:</hi> Since I write only News
+from <hi>Briſtoll,</hi> I ſhall ſay nothing of the rug<g ref="char:EOLhyphen"/>gle he drove
+there, but come to his Character here, where for his Loyalty I refer you to the
+<hi>Obſervator</hi> and <hi>Thompſon</hi>'s Intelligence, and have this
+further to add to it, that is, He now abounds in an Eſtate of at leaſt
+ſevenſcore pound a year, he hath part of two Ships, and a ſtock in Trade,
+beſides the Improve<g ref="char:EOLhyphen"/>ment he's daily making in his preſent new Calling.
+Yeſterday the Quakers-Meeting were again diſturbed by our New Sir
+<hi>John</hi> and his man; The Con<g ref="char:EOLhyphen"/>ſtables came not with him, they by a
+Compacted agreement having placed <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and had for their Company ſeveral
+Fid<g ref="char:EOLhyphen"/>lers, <pb n="5" facs="tcp:37630:5"/>a Drummer, with a Drum, alſo a Flagg and Arms;
+for this Company Victuals and Liquor were provided to carry on the deſigned
+Revel and Riot; juſt as the Sheriff came, the doors of the Meeting-houſe
+were threw open, and the Fidlers began to play on their Fidles. The Sheriff
+ſmiling ask'd, <hi>What was the meaning of this? Tilley</hi> one of his
+Brother Infor<g ref="char:EOLhyphen"/>mers anſwered, <hi>They meant to be merry, and came there to
+Dance.</hi> To make good his word, they attempted to take hold of ſeveral
+young Women to hale them in, who fearful of being abuſed by ſo vile a
+Company, held faſt by the Antient Women; upon which two of the ſaid Girles
+with the Women, who ſheltered them were by the Sheriff committed to
+<hi>Bridewell,</hi> and with them two more for reproving their Lewdneſs. The
+manner of the Quaker Womans reproof was thus, <hi>Well Sheriff</hi> Knight,
+ſaid ſhe, <hi>I ſee that though we cannot be ſuffered to ſerve God,
+theſe ſhall to ſerve the Devil; our peaceable Meetings you ſeek to make
+Riots, and here you your ſelves are Rioting and Revelling to a great
+exceſs.</hi> Oh! theſe doings are a ſhame to <hi>Briſtoll,</hi> which
+was once reputed a ſober and well Governed City: Now it's altered for the
+Prophane, Drunkards, Revellers and Whore-maſters are Countenanced, but
+thoſe that fear God made a prey of; ſurely God will viſit heavily with
+his Judgments for theſe crying ſins.</p>
+            <p>To proceed, The Meeting being thus diſperſed, theſe
+Conſtables, Infor<g ref="char:EOLhyphen"/>mers and Company ſtill continued in the Meeting-houſe,
+Eating, Drinking and making a clamorous noiſe; viſited they were by ſome
+of the ſame Com<g ref="char:EOLhyphen"/>plexion, whoſe Names I may furniſh you with another time.
+In the Inte<g ref="char:EOLhyphen"/>rim I have to tell you, that having well drunken in the Lower-room,
+they then went up Stairs to the Tenement of a late Widdow, and there at the top
+of the Houſe they ſung, made <hi>Huzza</hi>'s, and Revelled till about
+three in the Afternoon, when being weary, they left their place; and to ſhew
+their power, <hi>Tilley</hi> he goes to <hi>Bridewell,</hi> and releaſes the
+ſix Women. Juſt before this Re<g ref="char:EOLhyphen"/>vel broke up there happened a very
+pleaſant paſſage, that is, the Informers being got to the Upper Tenement
+of the Quakers Meeting houſe, had then the view of the Houſe of a Quaker,
+againſt whom theſe Blades have an In<g ref="char:EOLhyphen"/>veterate ſpleen, in that he was one
+that went to <hi>White-Hall</hi> to complain of their Illegal proceedings, this
+they manifeſt by inquiring every Meeting day after him, and menacing how they
+would manage him for his Petitioning, ſuppoſing they were now levelling
+their thoughts at him, their heads ſwim<g ref="char:EOLhyphen"/>ming with the height of their Station
+and ſtrength of their Liquor, they dreamed or fancied a Conventicle at his
+houſe, ſo away they came, and be<g ref="char:EOLhyphen"/>ſet it on this ſuſpicion, he being
+then with his Wife and Mother abroad at Dinner at a Relations Houſe, and
+having left in his Houſe three ſmall Chil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren and his own Servants only,
+knocking at the door, the Servants were <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earful to open it to ſo rude and
+boiſterous a Company, ſo one of them, that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>E. Summers</hi> a
+Raſcally Pockified Butcher, goes over a Neighbours Wall and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ters his Garden,
+then went and opened the Street door, letting in the oth<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>formers, that is,
+<hi>Tilley,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Caſſe</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <pb n="6" facs="tcp:37630:6"/>out doors, whether fearing their
+Entry was unwarrantable, or that they waited for a ſuppoſed prey, I know
+not; but whilſt they were without doors, <hi>Tilley</hi> enters and walks
+about the firſt Floor within doors; <hi>Summers, Patrick</hi> and
+<hi>Caſſe</hi> runs haſtily up Stairs to the very Terret of the Houſe,
+Ranſacks every Room and Cloſet above, ſearcht the Cellars,
+Waſh-houſe, and Out<g ref="char:EOLhyphen"/>houſes below Stairs; and finding none in the Houſe
+but Children and Ser<g ref="char:EOLhyphen"/>vants, away they departed. When I laſt ſpoke with the
+Gentleman, he told me, <hi>He hopes he loſt nothing,</hi> however ſhould I
+be ſo ſerved and be at home, I think I ſhould be loth to let the
+Gentlemen go without Examining their Pockets, knowing that both Law and
+Goſpel would from their thus entring a Houſe, make them all great
+Treſpaſſers and ſhrewdly ſuſpected of being Thieves and
+Robbers.</p>
+            <p>I have now given you a large account of paſſages here, which
+you may freely Communicate to all your Friends, and give them aſſurance of
+the cer<g ref="char:EOLhyphen"/>tainty and truth in all particulars, I doubt not but ſeveral Letters
+this Poſt makes mention of this latter part of it, and that the Quakers
+themſelves will take care to Print this as remarkable. I would give you leave
+to Print my Letter alſo, but that I expect the Lying <hi>Obſervator,</hi>
+or ſome ſuch <hi>Mercenary Pamphleteer</hi> will in their next Dialogue
+call it a Libel againſt the Law; and with a few down-right ſtaring Lies,
+confute it all; as the <hi>Obſervator</hi> did the little Book
+aforementioned; you know 'tis common for them to term the giving an Informer
+his true Character, and publiſhing their noble Acts the Arraignment of the
+Government, whereas no Magiſtrate is any way con<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>I ſhall now draw my long Letter to a Concluſion, which indeed
+hath ſwelled in its bulk much above my former intention, albeit the Subject
+is ſo Copious as 'twould fill a Volumn.</p>
+            <p>Next Week our Seſſions begin, the Conſideration of the
+proceedure of which makes us big with expectation, the Indictments of
+Recuſancy againſt Scores of Proteſtant Diſſenters are like to come
+to an Iſſue; as alſo the Tryal of the Quakers Meetings, as to making them
+Riots, I will not be ſo injurious to my Country-men as to conclude
+afore-hand, that ſuch Profecu<g ref="char:EOLhyphen"/>ters will have ſuch Juries, having great
+Confidence in the integrity and care of the Mayor and Juſtices, to ſee that
+the Juries be worthy and prudent men, of which this City (to ſpeak without
+boaſting) can afford good plenty. Our Sheriff <hi>Lane</hi> I underſtand is
+alſo ſolicitous in this point, who, to give him his due, is a quiet and
+worthy Gentleman, but I am informed our new Knight<g ref="char:EOLhyphen"/>ed Sheriff ſticles
+ſomewhat againſt this, which the Diſſenters not without cauſe grumble
+at, he being their great Proſecuter and Informer, they think he ought to be
+paſſive. The Quakers murmur heavily at it, and ſays, <hi>It juſtifies
+their Complaint above, that they can have no relief below.</hi> When our
+Seſſions is over, you may expect a ſhort and true account of its
+proceedure. <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> time, I beg your excuſe in tiring your patience in ſo
+long a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
